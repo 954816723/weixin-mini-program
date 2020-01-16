@@ -1,0 +1,13 @@
+{
+    "pages": [
+        "pages/classic/classic"
+    ],
+    "window": {
+        "navigationBarBackgroundColor": "#EEFDBD",
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "island-wind",
+        "navigationStyle": "default",
+        "backgroundColor": "#EEFDBD",
+        "enablePullDownRefresh": true
+    }
+}
